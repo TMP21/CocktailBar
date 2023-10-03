@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6d6879e-6c0e-4f75-a209-a0bce269e045" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CocktailBar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cocktail/Aviation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cocktail/BlueHawaii.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cocktail/Cosmopolitan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cocktail/Daiquiri.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cocktail/LongIslandIcedTea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cocktail/Margarita.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cocktail/MoscowMule.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cocktail/PiñaColada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cocktail/SexOnTheBeach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cocktail/Sidecar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cocktail/TokyoIcedTea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cocktail/Zombie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/util/icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/util/noImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/save/Bar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/save/Ingredients.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cocktail/Cocktail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cocktail/CocktailEditView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cocktail/CocktailRegistrationView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cocktail/CocktailRemovalView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cocktail/CocktailShowView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cocktail/Cocktails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ingredient/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientEditView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientRegistrationView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientRemovalView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientShowView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientToogleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ingredient/Ingredients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/Ratings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Bar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/CheckBoxMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/FilterView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/MenuBarMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/MenuButtonMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/WindowMaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2WGd1Gv2Ol1XZPqhCdlmA0caINj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/pierr/Documents/Java-FX/javafx-sdk-20.0.2/lib",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/pierr/IdeaProjects/CocktailBar/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="MAIN_CLASS_NAME" value="main.main" />
+      <module name="CocktailBar" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path &quot;C:\Users\pierr\Documents\Java-FX\javafx-sdk-20.0.2\lib&quot; --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6d6879e-6c0e-4f75-a209-a0bce269e045" name="Changes" comment="" />
+      <created>1696362634264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696362634264</updated>
+      <workItem from="1696362635277" duration="30000" />
+      <workItem from="1696362679121" duration="38000" />
+      <workItem from="1696362782699" duration="334000" />
+      <workItem from="1696363155377" duration="251000" />
+      <workItem from="1696363450210" duration="362000" />
+      <workItem from="1696363883055" duration="460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalAccessException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
