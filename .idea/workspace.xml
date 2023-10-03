@@ -5,56 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6d6879e-6c0e-4f75-a209-a0bce269e045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CocktailBar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cocktail/Aviation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cocktail/BlueHawaii.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cocktail/Cosmopolitan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cocktail/Daiquiri.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cocktail/LongIslandIcedTea.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cocktail/Margarita.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cocktail/MoscowMule.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cocktail/PiñaColada.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cocktail/SexOnTheBeach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cocktail/Sidecar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cocktail/TokyoIcedTea.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cocktail/Zombie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/util/icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/util/noImg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/save/Bar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/save/Ingredients.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cocktail/Cocktail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cocktail/CocktailEditView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cocktail/CocktailRegistrationView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cocktail/CocktailRemovalView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cocktail/CocktailShowView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cocktail/Cocktails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ingredient/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientEditView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientRegistrationView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientRemovalView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientShowView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientToogleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ingredient/IngredientWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ingredient/Ingredients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/Ratings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Bar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/CheckBoxMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/FilterView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/MenuBarMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/MenuButtonMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/WindowMaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,25 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/pierr/Documents/Java-FX/javafx-sdk-20.0.2/lib",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/pierr/IdeaProjects/CocktailBar/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pierr/Documents/Java-FX/javafx-sdk-20.0.2/lib&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pierr/IdeaProjects/CocktailBar/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
@@ -133,7 +85,9 @@
       <workItem from="1696362782699" duration="334000" />
       <workItem from="1696363155377" duration="251000" />
       <workItem from="1696363450210" duration="362000" />
-      <workItem from="1696363883055" duration="460000" />
+      <workItem from="1696363883055" duration="1068000" />
+      <workItem from="1696364968118" duration="15000" />
+      <workItem from="1696364994713" duration="10000" />
     </task>
     <servers />
   </component>
