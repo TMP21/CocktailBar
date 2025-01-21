@@ -1,19 +1,18 @@
 package Cocktail;
 
-import java.io.Serializable;
-import java.text.SimpleDateFormat;
-import java.util.Collections;
-import java.util.Date;
-import java.util.Formatter;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.stream.Collectors;
 import Ingredient.Ingredient;
 import Ingredient.Ingredients;
 import util.Content;
 
+import java.io.Serial;
+import java.io.Serializable;
+import java.text.SimpleDateFormat;
+import java.util.*;
+import java.util.stream.Collectors;
+
 public class Cocktail implements Serializable {
 
+	@Serial
 	private static final long serialVersionUID = 1L;
 	private List<Content> content = new LinkedList<Content>();
 	private List<String> recipe = new LinkedList<String>();

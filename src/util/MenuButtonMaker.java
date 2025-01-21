@@ -9,7 +9,7 @@ public class MenuButtonMaker {
 	private String[] units = { "ml", "cl", "oz", "Fill Up", "Drop(s)", "Dash(es)", "Part", "Gramm(s)", "Pieces", "",
 			"Teaspoon", "Pinch", "Top off", "Barspoon", "Spray", "Rinse" };
 	private String[] glass = { "----", "Cocktail Glass", "Copper Mug", "Coupe Glass", "Fancy Glass", "Flip Glass",
-			"Highball Glass", "Hurricane Glass", "Margarita Glass", "Martini Glass", "Nick and Nora Glass",
+			"Highball Glass", "Hurricane Glass", "Margarita Glass", "Martini Glass", "Nick and Nora Glass", "Pint",
 			"Rocks Glass", "Sour Glass", "Shot", "Tumbler" };
 	private String[] method = { "----", "Blender", "Build In The Glass", "Shaker", "Stirring", "Toss" };
 	private String[] sort = { "Rating Desc", "Rating Asc", "ABV Desc", "ABV Asc", "Alphabetic Desc", "Alphabetic Asc" };

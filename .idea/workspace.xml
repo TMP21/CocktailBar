@@ -6,7 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a6d6879e-6c0e-4f75-a209-a0bce269e045" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/Bar - Kopie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/Bar.txt" beforeDir="false" afterPath="$PROJECT_DIR$/save/Bar.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/Ingredients - Kopie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/Ingredients.txt" beforeDir="false" afterPath="$PROJECT_DIR$/save/Ingredients.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cocktail/Cocktail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cocktail/Cocktail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ingredient/IngredientToogleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ingredient/IngredientToogleView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/MenuButtonMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/MenuButtonMaker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="MAIN_CLASS_NAME" value="main.main" />
+      <module name="CocktailBar" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path &quot;C:\Users\pierr\Documents\Java-FX\javafx-sdk-20.0.2\lib&quot; --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.main" />
@@ -88,6 +103,70 @@
       <workItem from="1696363883055" duration="1068000" />
       <workItem from="1696364968118" duration="15000" />
       <workItem from="1696364994713" duration="10000" />
+      <workItem from="1696365579142" duration="135000" />
+      <workItem from="1696365886165" duration="83000" />
+      <workItem from="1696365979838" duration="95000" />
+      <workItem from="1696875284806" duration="606000" />
+      <workItem from="1697043139070" duration="615000" />
+      <workItem from="1697474444649" duration="38000" />
+      <workItem from="1697486434413" duration="4000" />
+      <workItem from="1698412380311" duration="1877000" />
+      <workItem from="1698770940602" duration="2911000" />
+      <workItem from="1698782231557" duration="5000" />
+      <workItem from="1698860295856" duration="1537000" />
+      <workItem from="1699193091044" duration="595000" />
+      <workItem from="1699972934677" duration="154000" />
+      <workItem from="1700227369280" duration="255000" />
+      <workItem from="1700253608257" duration="451000" />
+      <workItem from="1700314285867" duration="401000" />
+      <workItem from="1700321124907" duration="601000" />
+      <workItem from="1700329610429" duration="600000" />
+      <workItem from="1700661828851" duration="275000" />
+      <workItem from="1700757131638" duration="606000" />
+      <workItem from="1701356576389" duration="1537000" />
+      <workItem from="1701449292499" duration="603000" />
+      <workItem from="1701801349365" duration="609000" />
+      <workItem from="1703242910494" duration="609000" />
+      <workItem from="1703349133256" duration="74000" />
+      <workItem from="1703349958177" duration="1201000" />
+      <workItem from="1703695963656" duration="1375000" />
+      <workItem from="1703952362129" duration="373000" />
+      <workItem from="1704830644164" duration="597000" />
+      <workItem from="1704831972788" duration="153000" />
+      <workItem from="1705413176195" duration="618000" />
+      <workItem from="1706818383579" duration="668000" />
+      <workItem from="1707430811122" duration="2353000" />
+      <workItem from="1707489903288" duration="791000" />
+      <workItem from="1707498833916" duration="602000" />
+      <workItem from="1708087417805" duration="1445000" />
+      <workItem from="1708090215898" duration="15000" />
+      <workItem from="1708103618400" duration="1299000" />
+      <workItem from="1710098679552" duration="622000" />
+      <workItem from="1710517132618" duration="1112000" />
+      <workItem from="1710525234962" duration="601000" />
+      <workItem from="1710554407119" duration="597000" />
+      <workItem from="1711817814789" duration="196000" />
+      <workItem from="1711819110280" duration="1195000" />
+      <workItem from="1713553276221" duration="357000" />
+      <workItem from="1714310763569" duration="1195000" />
+      <workItem from="1716044081913" duration="1238000" />
+      <workItem from="1716297627142" duration="65000" />
+      <workItem from="1717096385082" duration="485000" />
+      <workItem from="1717172728950" duration="604000" />
+      <workItem from="1718296457321" duration="599000" />
+      <workItem from="1722004985963" duration="1873000" />
+      <workItem from="1722633466006" duration="600000" />
+      <workItem from="1722704591420" duration="604000" />
+      <workItem from="1725215805522" duration="472000" />
+      <workItem from="1725623088347" duration="1210000" />
+      <workItem from="1731690123575" duration="1218000" />
+      <workItem from="1732355716169" duration="42000" />
+      <workItem from="1732355914802" duration="1000" />
+      <workItem from="1732904766917" duration="604000" />
+      <workItem from="1735491694747" duration="23000" />
+      <workItem from="1735491725272" duration="138000" />
+      <workItem from="1735492153612" duration="55000" />
+      <workItem from="1736502808175" duration="27000" />
     </task>
     <servers />
   </component>
